@@ -1,2 +1,2 @@
-This is a  Python/Scrapy project that gets the information for the investors from a
-It also uses Selenium-webdriver to get the dynamic parts of the page. 
+Scrapy is an efficent framework for webscraping. This is a Scrapy/Python project to get data of investors from https://angel.co/people/investors. 
+The sample data which is pulled is given in sample.csv. 
